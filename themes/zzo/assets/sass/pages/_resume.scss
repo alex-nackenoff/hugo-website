@@ -20,13 +20,13 @@
     }
 
     &--info {
-      
+
     }
   }
 
   &__section {
     @include flexbox();
-    
+
     @media only screen and (max-width: 769px) {
       @include flex-direction(column);
     }
@@ -57,7 +57,7 @@
       }
 
       &--subtitle {
-        
+
       }
 
       &--contents {
@@ -96,6 +96,7 @@
         @include flex-direction(column);
         @media only screen and (max-width: 769px) {
           width: 100%;
+          
         }
       }
     }
@@ -111,7 +112,9 @@
         @media only screen and (max-width: 769px) {
           text-align: left;
           width: 100%;
-          padding: 0.75rem 0;
+          padding: 0.75rem;
+
+
         }
       }
 
@@ -126,6 +129,7 @@
         @include flex-direction(column);
         @media only screen and (max-width: 769px) {
           width: 100%;
+
         }
       }
     }
