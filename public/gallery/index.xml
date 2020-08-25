@@ -6,33 +6,33 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Posts on Alex Nackenoff</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Alex Nackenoff</description>
+    <title>Galleries on Alex Nackenoff</title>
+    <link>/gallery/</link>
+    <description>Recent content in Galleries on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alex@alexnackenoff.com (Alex Nackenoff)</managingEditor>
     <webMaster>alex@alexnackenoff.com (Alex Nackenoff)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 23 Aug 2020 12:10:26 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
-        <title>My First Post</title>
-        <link>/posts/my-first-post/</link>
-        <pubDate>Sun, 23 Aug 2020 12:10:26 -0500</pubDate>
+        <title>Wedding Beer Cart</title>
+        <link>/gallery/beer_cart/</link>
+        <pubDate>Tue, 01 Oct 2019 10:20:16 +0900</pubDate>
         <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
-        <atom:modified>Sun, 23 Aug 2020 12:10:26 -0500</atom:modified>
-        <guid>/posts/my-first-post/</guid>
-        <description>Hello! I&amp;rsquo;m testing a new website build so I don&amp;rsquo;t have to tinker with HTML/CSS all the time I think about posting. It was becoming a barrier to posting anything, though I might change my mind and go back.</description>
+        <atom:modified>Tue, 01 Oct 2019 10:20:16 +0900</atom:modified>
+        <guid>/gallery/beer_cart/</guid>
+        <description></description>
         
         <dc:creator>Alex Nackenoff</dc:creator>
-        
+        <media:content url="/images/profile-circle.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

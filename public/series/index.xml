@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Alex Nackenoff</title>
-    <link>https://alexnackenoff.com/series/</link>
+    <link>/series/</link>
     <description>Recent content in Series on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>alex@alexnackenoff.com (Alex Nackenoff)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://alexnackenoff.com/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     

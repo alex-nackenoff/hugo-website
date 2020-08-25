@@ -3,35 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alexnackenoff.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-08-23T12:10:26-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexnackenoff.com/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2020-08-23T12:10:26-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexnackenoff.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-08-23T12:10:26-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexnackenoff.com/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2020-02-09T20:13:59+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexnackenoff.com/categories/</loc>
+    <loc>/gallery/</loc>
+    <lastmod>2019-10-01T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexnackenoff.com/series/</loc>
+    <loc>/gallery/beer_cart/</loc>
+    <lastmod>2019-10-01T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexnackenoff.com/tags/</loc>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

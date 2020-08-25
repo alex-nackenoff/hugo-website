@@ -18,8 +18,8 @@
 
 [[main]]
   parent = "gallery"
-  name = "cartoon"
-  url = "gallery/cartoon"
+  name = "Beer Cart"
+  url = "gallery/beer_cart"
 
 [[main]]
   parent = "gallery"

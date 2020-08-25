@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Alex Nackenoff</title>
-    <link>https://alexnackenoff.com/</link>
+    <link>/</link>
     <description>Recent content on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 23 Aug 2020 12:10:26 -0500</lastBuildDate>
     
-        <atom:link href="https://alexnackenoff.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -45,11 +45,11 @@
       
       <item>
         <title>My First Post</title>
-        <link>https://alexnackenoff.com/posts/my-first-post/</link>
+        <link>/posts/my-first-post/</link>
         <pubDate>Sun, 23 Aug 2020 12:10:26 -0500</pubDate>
         <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
         <atom:modified>Sun, 23 Aug 2020 12:10:26 -0500</atom:modified>
-        <guid>https://alexnackenoff.com/posts/my-first-post/</guid>
+        <guid>/posts/my-first-post/</guid>
         <description>Hello! I&amp;rsquo;m testing a new website build so I don&amp;rsquo;t have to tinker with HTML/CSS all the time I think about posting. It was becoming a barrier to posting anything, though I might change my mind and go back.</description>
         
         <dc:creator>Alex Nackenoff</dc:creator>
