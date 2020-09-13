@@ -6,7 +6,7 @@ tags:
 - Gluten-Free
 - Wheat-Free
 - Recipes
-draft: true
+draft: false
 ---
 {{< figure src="/images/bread.jpg" caption="Yes this is actually gluten-free bread, unlike the lies of other cooking blogs" >}}
 
