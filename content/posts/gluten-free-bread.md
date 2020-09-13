@@ -2,7 +2,7 @@
 title: "Gluten Free Bread"
 date: 2020-09-12T16:28:44-05:00
 description: Here are some basic tips that got me in the right direction baking great gluten-free bread, including the right flour mix and starter recipe.
-image: /images/bread.jpg
+image: /images/bread-thumb.jpg
 tags:
 - Gluten-Free
 - Wheat-Free
