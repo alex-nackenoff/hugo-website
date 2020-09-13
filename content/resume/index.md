@@ -12,7 +12,7 @@ header:
   infos:
     name: Alex Nackenoff
     email: alex@alexnackenoff.com
-    website: www.alexnackenoff.com
+    website:
 items:
   - title: Education
     sections:
@@ -107,7 +107,7 @@ items:
         startDate:
         contents: |
 
-          ><b>Nackenoff AG</b>, Hohman TJ, Neuner SM, Akers CS, Weitzel NC, Shostak A, Ferguson S, Bennett DA, Schneider JA, Jefferson AL, Kaczorowski CC, Schrag MS. [PLD3 is a Neuronal Lysosomal Phospholipase D Associated with β-amyloid Plaques and Memory in Sporadic Alzheimer’s Disease](https://doi.org/10.1101/746222). <i>bioRxiv</i>. (2019). 
+          ><b>Nackenoff AG</b>, Hohman TJ, Neuner SM, Akers CS, Weitzel NC, Shostak A, Ferguson S, Bennett DA, Schneider JA, Jefferson AL, Kaczorowski CC, Schrag MS. [PLD3 is a Neuronal Lysosomal Phospholipase D Associated with β-amyloid Plaques and Memory in Sporadic Alzheimer’s Disease](https://doi.org/10.1101/746222). <i>bioRxiv</i>. (2019).
 
           >Grory BM, <b>Nackenoff AG</b>, Poli S, Spitzer M, Nedelmann M, Guillon B, Préterre C, Chen C, Lee A, Yaghi S, Stretz C, Azher I, Paddock J, Bakaeva T, Greer D, Shulman J, Kowalski R, Lavin P,  Mistry E, Espaillat K, Furie K, Kirshner H, and Schrag M. Intravenous Fibrinolytic Therapy for Acute Central Retinal Artery Occlusion – A Retrospective, Observational Cohort Study and Updated Patient-Level Meta-Analysis. <i>Translational Stroke Research</i>. Accepted
 
