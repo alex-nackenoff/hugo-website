@@ -1,5 +1,5 @@
 .post-comments {
-  
+
 }
 
 .post-comment {
@@ -53,7 +53,6 @@
 .dialog {
   display: none;
   position: fixed;
-  background-color: rgba(238, 238, 238, 1);
   padding: 25px;
   padding-top: 20%;
   top: 0;
