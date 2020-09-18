@@ -7,6 +7,11 @@ tags:
 - Gluten-Free
 - Wheat-Free
 - Recipes
+categories:
+- Gluten-Free
+- Recipes
+series:
+- Gluten Free Cooking
 draft: false
 ---
 {{< figure src="/images/bread.jpg" caption="Yes this is actually gluten-free bread, unlike the lies of other cooking blogs" >}}
@@ -15,7 +20,7 @@ draft: false
 ### No
 But you can get close. After a few too many failed attempts at baking gluten-free for my girlfriend (now wife) using random Google search result cooking blogs, I sought out the best reputable source as I knew this was possible. I came across and got a well cited and reviewed gluten free bread book on Amazon <a href="https://www.amazon.com/Gluten-Free-Artisan-Bread-Five-Minutes/dp/1250018315/ref=sr_1_1?dchild=1&keywords=gluten+free+bread+baking&qid=1599948059&sr=8-1">"Gluten-Free Artisan Bread in Five Minutes a Day..."</a> (which is a clickbait lie regarding 5 minutes but ignore that, it's really good). Immediately reading the essential pages, I realized that the critical step in gluten-free bread baking comes down to the composition of the flour mix, which I had largely ignored or used whatever gluten-free flour mix in my grocery store. The quality of my gluten free breads improved 10x overnight.
 
-The flour mix is mostly rice flour based, but calls for sorghum flour (hard to find so you can replace with oat flour), potato starch (<u>not flour</u>), tapioca flour, and xanthan gum. Flour mix detailed below. Get a kitchen scale, and use the metric system.
+The flour mix is mostly rice flour based, but calls for sorghum flour (hard to find so you can replace with oat flour), potato starch (<u>not flour</u>), tapioca flour, and xanthan gum. Flour mix detailed below. Get a kitchen scale, and use the metric system. I use <a href="https://www.amazon.com/gp/product/B079D9B82W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">this</a> scale.
 
 Flour | Amount (grams)
 --------|------
