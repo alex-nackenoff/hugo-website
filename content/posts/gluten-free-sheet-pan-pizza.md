@@ -56,7 +56,7 @@ Another popular lie from gluten-free cooking blogs or books is that gluten-free 
 
 {{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-17-pizza/20200912_190540-xx.jpg" caption="Throw on your toppings while your oven preheats. Here I'm going with mozzarella with homemade pickled red onions and pickled sweet peppers. Not shown is the massive amount of parmesan I grated on top before baking">}}
 
-Since foccacia is baked around 425F and pizza is baked around 500-550F (not including brick pizza ovens), I decided to split the difference and start at 450F. This probably could have been 475F, as I bumped it up to that in the last third of the bake anyway, but see what you like. Lower temps are going to give a softer crust.
+Since focaccia is baked around 425F and pizza is baked around 500-550F (not including brick pizza ovens), I decided to split the difference and start at 450F. This probably could have been 475F, as I bumped it up to that in the last third of the bake anyway, but see what you like. Lower temps are going to give a softer crust.
 
 * Bake at 450F for 30 min.
 * What I actually did: 450F for 20 min, raise to 475F for 10 min
@@ -67,7 +67,7 @@ Since foccacia is baked around 425F and pizza is baked around 500-550F (not incl
 
 {{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-17-pizza/20200912_194323-xx.jpg" caption="Could I have gotten a bit more color? Sure. But it tasted great so who cares. If you do care, brush the crust with egg wash or garlic butter before baking">}}
 
-I'll update this post if someone sends me a good sheetpan style glutinous pizza dough recipe, but in a pinch, find a foccacia recipe, skip the salt water brine, add tomato sauce and toppings and bake and I'm positive you'll make something really good.
+I'll update this post if someone sends me a good sheetpan style glutinous pizza dough recipe, but in a pinch, find a focaccia recipe, skip the salt water brine, add tomato sauce and toppings and bake and I'm positive you'll make something really good.
 
 And that's my take on a sheet pan gluten free pizza! It's our new preferred way to make gluten-free pizza, as it gets the crust thin enough without too much work. I will make a deep dish gluten free pizza work, but no attempt has come close to how good and easy this sheetpan method is.
 
