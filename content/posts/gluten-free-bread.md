@@ -14,7 +14,7 @@ series:
 - Gluten Free Cooking
 draft: false
 ---
-{{< figure src="/images/bread.jpg" caption="Yes this is actually gluten-free bread, unlike the lies of other cooking blogs" >}}
+{{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-12-bread/bread-xx.jpg" caption="Yes this is actually gluten-free bread, unlike the lies of other cooking blogs" >}}
 
 ## Can You Replicate Glutinous Bread Without Gluten?
 ### No
@@ -37,7 +37,7 @@ For the recipe of the bread...I don't want to get in trouble with the authors an
 The key here is using steam to cook the bread. On the easy side, you could use a lidded dutch oven or oven safe stock pot (taking off the lid ~2/3 of the way through the cook time).
 
 ### Dutch Oven Method
-{{< figure src="/images/dome-post.jpg" caption="Dutch Oven Method. 1 hour cooktime at 450F, taking the lid off after 35 minutes" >}}
+{{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-12-bread/dome-post-xx.jpg" caption="Dutch Oven Method. 1 hour cooktime at 450F, taking the lid off after 35 minutes" >}}
 
 Since this method requires hand forming, I'd highly recommend completely refrigerating the dough beforehand, which practically means doing the dough a day ahead of time. It will work right after the rise, but the dough won't hold its height as well as a chilled dough.
 
@@ -65,7 +65,7 @@ Since this method requires hand forming, I'd highly recommend completely refrige
 
 ### Bread Pan Method
 On the other easy side, you can just add some water to a pan in the oven and never worry about opening the oven.
-{{< figure src="/images/pan-post.jpg" caption="Steam Method in a Loaf Pan......Okay, I cheated and used an egg wash." >}}
+{{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-12-bread/pan-post-xx.jpg" caption="Steam Method in a Loaf Pan......Okay, I cheated and used an egg wash." >}}
 * 1 hour cooktime at 425F with 1 cup of water on a baking tray
 
 ## For Those with Non-Gluten Wheat Allergies:
