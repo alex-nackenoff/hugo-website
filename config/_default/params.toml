@@ -175,7 +175,7 @@ commento = false
   twitch = ""
 
 [donationOptions]
-  enable = true # if set, the donation button will show up on the single page.
+  enable = false # if set, the donation button will show up on the single page.
   alipay = "" # Alipay QR Code image (example path: images/donation/alipay-qrcode.png) and put your file at root/static/images/donation/
   wechat = "" # Wechat pay QR Code image (example path: same as above)
   paypal = "https://paypal.me/anackenoff" # Paypal URL
