@@ -7,19 +7,38 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Alex Nackenoff</title>
-    <link>/series/</link>
+    <link>https://alexnackenoff.com/series/</link>
     <description>Recent content in Series on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alex@alexnackenoff.com (Alex Nackenoff)</managingEditor>
     <webMaster>alex@alexnackenoff.com (Alex Nackenoff)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 17 Sep 2020 10:47:33 -0500</lastBuildDate>
     
-        <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://alexnackenoff.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Gluten Free Cooking</title>
+        <link>https://alexnackenoff.com/series/gluten-free-cooking/</link>
+        <pubDate>Thu, 17 Sep 2020 10:47:33 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://alexnackenoff.com/series/gluten-free-cooking/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     

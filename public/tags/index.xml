@@ -7,19 +7,74 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Alex Nackenoff</title>
-    <link>/tags/</link>
+    <link>https://alexnackenoff.com/tags/</link>
     <description>Recent content in Tags on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alex@alexnackenoff.com (Alex Nackenoff)</managingEditor>
     <webMaster>alex@alexnackenoff.com (Alex Nackenoff)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 17 Sep 2020 10:47:33 -0500</lastBuildDate>
     
-        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://alexnackenoff.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Gluten-Free</title>
+        <link>https://alexnackenoff.com/tags/gluten-free/</link>
+        <pubDate>Thu, 17 Sep 2020 10:47:33 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://alexnackenoff.com/tags/gluten-free/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Recipes</title>
+        <link>https://alexnackenoff.com/tags/recipes/</link>
+        <pubDate>Thu, 17 Sep 2020 10:47:33 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://alexnackenoff.com/tags/recipes/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Wheat-Free</title>
+        <link>https://alexnackenoff.com/tags/wheat-free/</link>
+        <pubDate>Thu, 17 Sep 2020 10:47:33 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://alexnackenoff.com/tags/wheat-free/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     

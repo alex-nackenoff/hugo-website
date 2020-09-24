@@ -7,19 +7,56 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Alex Nackenoff</title>
-    <link>/categories/</link>
+    <link>https://alexnackenoff.com/categories/</link>
     <description>Recent content in Categories on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alex@alexnackenoff.com (Alex Nackenoff)</managingEditor>
     <webMaster>alex@alexnackenoff.com (Alex Nackenoff)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 17 Sep 2020 10:47:33 -0500</lastBuildDate>
     
-        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://alexnackenoff.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Gluten-Free</title>
+        <link>https://alexnackenoff.com/categories/gluten-free/</link>
+        <pubDate>Thu, 17 Sep 2020 10:47:33 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://alexnackenoff.com/categories/gluten-free/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Recipes</title>
+        <link>https://alexnackenoff.com/categories/recipes/</link>
+        <pubDate>Thu, 17 Sep 2020 10:47:33 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://alexnackenoff.com/categories/recipes/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     
