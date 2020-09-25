@@ -14,7 +14,7 @@ series:
 - Gluten Free Cooking
 draft: false
 ---
-{{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-17-pizza/20200912_195036-xl2.jpg" >}}
+{{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-17-pizza/20200912_195036-xl2.jpg">}}
 
 ## Just Like Any Gluten-Free Dough, This One is Going to be Wet
 
