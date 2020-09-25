@@ -16,20 +16,92 @@ draft: false
 ---
 {{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-17-pizza/20200912_195036-xl2.jpg">}}
 
-## Just Like Any Gluten-Free Dough, This One is Going to be Wet
+#### Just Like Any Gluten-Free Dough, This One is Going to be Wet
 
 Attempting to simulate gluten/crumb isn't as important here as it is with bread, but don't assume any gluten-free flour mix will work. See <a href="/posts/gluten-free-bread">here</a> for a good homemade GF flour mix. Here's the recipe I used for this batch:
-### Recipe
-Flour | Amount (grams)
---------|------
-Gluten Free Flour Mix| 338
-Fine Corn Meal | 127
-Potato Starch | 85
-Salt | 9
-Sugar | 25
-Olive Oil | 55
-Water | 482
-Yeast* | 5
+## Recipe
+{{< tabs Gluten-Free "GF with egg whites" "GF with sourdough starter" "All-Purpose/Wheat Recipe" >}}
+  {{< tab >}}
+  ### Gluten Free Base Recipe
+  <div class="table-wrapper">
+
+  Flour | Amount (grams)|
+  --------|------|
+  Gluten Free Flour Mix| 338|
+  Fine Corn Meal | 127|
+  Potato Starch | 85|
+  Salt | 9|
+  Sugar | 25|
+  Olive Oil | 55|
+  Water | 482|
+  Yeast* | 5|
+
+  </div>
+
+  {{< /tab >}}
+  {{< tab >}}
+
+  ### Gluten Free w/ Egg Whites
+
+  <div class="table-wrapper">
+
+  Flour | Amount (grams)|
+  --------|------|
+  Gluten Free Flour Mix| 338|
+  Fine Corn Meal | 127|
+  Potato Starch | 85|
+  Salt | 9|
+  Sugar | 25|
+  Olive Oil | 55|
+  Water | 425|
+  Egg Whites | 57.5|
+  Yeast* | 5|
+
+  </div>
+
+  {{< /tab >}}
+  {{< tab >}}
+
+  ### Gluten Free w/ Sourdough Starter
+
+  <div class="table-wrapper">
+
+  Flour | Amount (grams)|
+  --------|------|
+  Gluten Free Flour Mix| 238|
+  Fine Corn Meal | 127|
+  Potato Starch | 85|
+  Salt | 9|
+  Sugar | 25|
+  Olive Oil | 55|
+  Water | 232|
+  Sourdough Starter*| 350|
+
+  </div>
+  *My GF sourdough starter is 100g flour and 250g water, with carryover yeast. If you have less, or your ratios are different, see below on how to adjust your water & flour additions for the recipe
+  {{< /tab >}}
+
+  {{< tab >}}
+
+  ### All-Purpose/Wheat Flour Recipe
+
+  <div class="table-wrapper">
+
+  Flour | Amount |
+  --------|------|
+  All-Purpose Flour | 2.5 cups|
+  Salt | 2 tsp|
+  Sugar | 1 tsp|
+  Olive Oil | 1 Tbsp|
+  Corn Oil* | 0.25 cup|
+  Water | 0.75 cup|
+  Yeast | 5g|
+
+  </div>
+  *Feel free to substitute with vegetable/olive/canola oil
+
+  {{< /tab >}}
+{{< /tabs >}}
 
 Makes 1 sheet pan pizza
 
@@ -38,7 +110,7 @@ Makes 1 sheet pan pizza
 If you can consume gluten, use all-purpose or bread flour instead of the gluten-free flour mix and potato starch. I'd recommend using the corn meal because that's traditional and it tastes good. Additionally, I have used coarse corn meal and it has worked great, just a different texture. If you desire a bit more soft chew, use some egg whites (2 or 50 grams) in place of some of the water weight.
 
 ### Using Sourdough Starter
-In this recipe I used a gluten free "sourdough" starter, which requires a few modifications to the recipe. What I'm actually doing is what's referred to as a perpetual dough, where you hold back a golf ball sized amount of risen dough [from a bread loaf recipe]. <u>Important note, you cannot do this method if you use eggs in your recipe</u>. To that held back bit of dough, I add 250g of water and 100g of GF flour, and mix thoroughly with a whisk. I usually leave it out at room temp for a few hours, then put in my fridge until I'm ready to bake again. I tried a more traditional 1:1 ratio, but my GF flour mix as xanthan gum in it which seemed to gel everything up and prevent yeast propagation; if you're using wheat flour, 1:1 should be fine. So I'm not necessarily using a full sourdough starter, as I started off with dry instant yeast, but I'm getting more sourdough flavor the more I propagate and use it. And true to sourdough starters, it does rise much slower than dry instant yeast. I'll make a full post about this at some point soon.
+In this recipe I used a gluten free "sourdough" starter, which requires a few modifications to the recipe. What I'm actually doing is what's referred to as a perpetual dough, where you hold back a golf ball sized amount of risen dough [from a bread loaf recipe]. <u>Important note, you cannot do this method if you use eggs in your recipe</u> (you can however use your perpetual dough as a starter, ie. not contaminating your starter mix with egg whites in your recipe). To that held back bit of dough, I add 250g of water and 100g of GF flour, and mix thoroughly with a whisk. I usually leave it out at room temp for a few hours, then put in my fridge until I'm ready to bake again. I tried a more traditional 1:1 ratio, but my GF flour mix as xanthan gum in it which seemed to gel everything up and prevent yeast propagation; if you're using wheat flour, 1:1 should be fine. So I'm not necessarily using a full sourdough starter, as I started off with dry instant yeast, but I'm getting more sourdough flavor the more I propagate and use it. And true to sourdough starters, it does rise much slower than dry instant yeast. I'll make a full post about this at some point soon.
 
 In short, add whatever mass of sourdough starter to the dough, replacing the appropriate amount of flour and water by weight. For example, I added 350g of sourdough starter, which is comprised of 28.6% of flour (100g) and 71.4% of water (250g) by weight, therefore add 100g less flour and 250g less water from the above recipe.  
 
@@ -52,15 +124,18 @@ Another popular lie from gluten-free cooking blogs or books is that gluten-free 
 
 {{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-17-pizza/20200912_190009-xx.jpg" caption="Use plenty of olive oil on your sheetpan. Also, bonus points for blending up your own tomatoes and reducing them to a loose paste consistency">}}
 
+* For shaping, I like to keep a bowl of cool water nearby to dunk my hands in often. This dough is sticky.
+* If you get too much in one area and need some in another, just pinch some off and add it to the area that needs it. This is a great advantage that Gluten-Free doughs have over traditional gluten doughs
+
 ## Baking
 
 {{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-17-pizza/20200912_190540-xx.jpg" caption="Throw on your toppings while your oven preheats. Here I'm going with mozzarella with homemade pickled red onions and pickled sweet peppers. Not shown is the massive amount of parmesan I grated on top before baking">}}
 
 Since focaccia is baked around 425F and pizza is baked around 500-550F (not including brick pizza ovens), I decided to split the difference and start at 450F. This probably could have been 475F, as I bumped it up to that in the last third of the bake anyway, but see what you like. Lower temps are going to give a softer crust.
 
-* Bake at 450F for 30 min.
-* What I actually did: 450F for 20 min, raise to 475F for 10 min
-* What you should probably do: 475F for 25 min
+>* Bake at 450F for 30 min.
+>* What I actually did: 450F for 20 min, raise to 475F for 10 min
+>* What you should probably do: 475F for 25 min
 
 ## Results
 {{< figure src="https://piwigo.alexnackenoff.com/_data/i/galleries/website-pics/2020/9-17-pizza/20200912_194301-xx.jpg" caption="Bake until it looks kind of like this -- cheese starting to brown but not burn, and the crust shrinks in from the edge of the pan">}}
