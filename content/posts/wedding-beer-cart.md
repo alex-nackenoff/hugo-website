@@ -1,6 +1,6 @@
 ---
 title: "Wedding Beer Cart"
-date: 2020-09-24T22:45:21-05:00
+date: 2020-10-15T22:45:21-05:00
 description: "Gallery depicting my rushed wedding beer cart construction"
 image: https://piwigo.alexnackenoff.com/galleries/website-pics/2020/9-24-beer-cart/wedding-772-crop.jpg
 tags:
