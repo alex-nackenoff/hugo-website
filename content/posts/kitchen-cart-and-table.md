@@ -5,7 +5,7 @@ description: Here's my build process for making a walnut butcher block style mat
 image: https://piwigo.alexnackenoff.com/i.php?/galleries/wood_table/DSC00407-sm.JPG
 tags:
 categories:
-- woodworking
+- Woodworking
 series:
 draft: false
 ---
