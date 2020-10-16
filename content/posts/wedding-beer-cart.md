@@ -17,7 +17,7 @@ draft: false
 ## The Inspiration
 At some point in the wedding planning process, it had crossed my mind to brew some beer for the reception, though I was not going to make that a non-negotiable factor for choosing a venue that would allow 1) outside alcohol and 2) homebrewed beer. The number of venues in Nashville that permitted homebrew were small, and we had more pressing demands (like trying to fit 200 people in a venue).
 
-By some luck, we settled upon a venue that permitted both outside alcohol and homebrewed beer. So now I guess I had to brew some beer for my wedding as the stars had aligned. Additionally, it would look weird if I *didn't*, considering I had brewed beer for 2 friend's weddings at this point. After a few back of the napkin calculations, I started considering whether I could brew *all* the beer for the wedding, and once I realized it was feasible, I naturally used that as evidence that I should.
+By some luck, we settled upon a venue that permitted both outside alcohol and homebrewed beer. So now I guess I had to brew some beer for my wedding as the stars had aligned. Additionally, it would look weird if I *didn't*, considering I had brewed beer for 2 friends' weddings at this point. After a few back of the napkin calculations, I started considering whether I could brew *all* the beer for the wedding, and once I realized it was feasible, I naturally used that as evidence that I should.
 
 So I was on my way to brewing, and realized I needed a good way to serve it. The only restrictions from the venue was we could not self-serve, so the options had to be simple enough for their bartenders to operate.
 
