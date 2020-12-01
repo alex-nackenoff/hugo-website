@@ -40,8 +40,8 @@ items:
       - title: Postdoctoral Fellow
         subtitle: Vanderbilt University Medical Center
         startDate: 2016-09-09T20:13:59+09:00
-        endDate:
-        endDateText: present
+        endDate: 2020-10-30T20:13:59+09:00
+        endDateText:
         contents: |
           Laboratory of [Matthew Schrag, MD, PhD](https://schraglab.com/)
 
@@ -59,7 +59,7 @@ items:
         contents: |
           Laboratory of [Randy Blakely, PhD](https://blakelylab.org/)
 
-          - Project manager of industry/academia collaboration with Lundbeck Pharmaceuticals to investigate the serotonin specific actions of the [then] preclinical compound AA21004 (aka. Vortioxetine, Trintillex). We found that non-SERT actions of AA21004 were sufficient alone to produce acute and chronic antidepressant effects, representing a new strategy to pursue novel serotonin directed pharmacotherapies.
+          - Project manager of industry/academia collaboration with Lundbeck Pharmaceuticals to investigate the serotonin specific actions of the [then] preclinical compound AA21004 (aka. Vortioxetine, Trintellix). We found that non-SERT actions of AA21004 were sufficient alone to produce acute and chronic antidepressant effects, representing a new strategy to pursue novel serotonin directed pharmacotherapies.
 
           - In vitro and in vivo experimental evaluations of discrete roles of serotonin in acute and chronic SSRI antidepressant drug efficacy.
 
