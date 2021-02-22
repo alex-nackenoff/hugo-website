@@ -178,12 +178,12 @@ commento = false
   enable = false # if set, the donation button will show up on the single page.
   alipay = "" # Alipay QR Code image (example path: images/donation/alipay-qrcode.png) and put your file at root/static/images/donation/
   wechat = "" # Wechat pay QR Code image (example path: same as above)
-  paypal = "https://paypal.me/anackenoff" # Paypal URL
-  venmo = "images/donation/venmo.png"
+  paypal = "" # Paypal URL
+  venmo = ""
   patreon = "" # Patreon URL
-  bitcoin = "images/donation/bitcoin.jpeg" # example path: images/donation/bitcoin-code-image.png
-  bitcoin-cash = "images/donation/bitcoincash.jpeg" # example path: images/donation/bitcoin-code-image.png
-  ethereum = "images/donation/ethereum.jpeg" # example path: images/donation/bitcoin-code-image.png
+  bitcoin = "" # example path: images/donation/bitcoin-code-image.png
+  bitcoin-cash = "" # example path: images/donation/bitcoin-code-image.png
+  ethereum = "" # example path: images/donation/bitcoin-code-image.png
 
 [copyrightOptions]
   enableCopyrightLink = false # if set, you can add copyright link
