@@ -90,8 +90,6 @@ items:
       - title: Eagle Scout, recipient of bronze, gold, and silver palms
         startDate: 2004-02-09T20:13:59+09:00
 
-      - title: Financial Markets, with Honors, Coursera
-        startDate: 2020-02-09T20:13:59+09:00
       - title: Best Poster Award, ASPET, Neuropharmacology Division
         startDate: 2015-02-09T20:13:59+09:00
 
@@ -107,17 +105,17 @@ items:
         startDate:
         contents: |
 
-          ><b>Nackenoff AG</b>, Hohman TJ, Neuner SM, Akers CS, Weitzel NC, Shostak A, Ferguson S, Bennett DA, Schneider JA, Jefferson AL, Kaczorowski CC, Schrag MS. [PLD3 is a Neuronal Lysosomal Phospholipase D Associated with β-amyloid Plaques and Memory in Sporadic Alzheimer’s Disease](https://doi.org/10.1101/746222). <i>bioRxiv</i>. (2019).
+          ><b>Nackenoff AG</b>, Hohman TJ, Neuner SM, Akers CS, Weitzel NC, Shostak A, Ferguson S, Bennett DA, Schneider JA, Jefferson AL, Kaczorowski CC, Schrag MS. PLD3 is a Neuronal Lysosomal Phospholipase D Associated with β-amyloid Plaques and Memory in Sporadic Alzheimer’s Disease. <i>PLOS Genetics</i>. (2021). [DOI Link](https://doi.org/10.1371/journal.pgen.1009406)
 
-          >Grory BM, <b>Nackenoff AG</b>, Poli S, Spitzer M, Nedelmann M, Guillon B, Préterre C, Chen C, Lee A, Yaghi S, Stretz C, Azher I, Paddock J, Bakaeva T, Greer D, Shulman J, Kowalski R, Lavin P,  Mistry E, Espaillat K, Furie K, Kirshner H, and Schrag M. Intravenous Fibrinolytic Therapy for Acute Central Retinal Artery Occlusion – A Retrospective, Observational Cohort Study and Updated Patient-Level Meta-Analysis. <i>Translational Stroke Research</i>. Accepted
+          >Grory BM, <b>Nackenoff AG</b>, Poli S, Spitzer M, Nedelmann M, Guillon B, Préterre C, Chen C, Lee A, Yaghi S, Stretz C, Azher I, Paddock J, Bakaeva T, Greer D, Shulman J, Kowalski R, Lavin P,  Mistry E, Espaillat K, Furie K, Kirshner H, and Schrag M. Intravenous Fibrinolytic Therapy for Acute Central Retinal Artery Occlusion – A Retrospective, Observational Cohort Study and Updated Patient-Level Meta-Analysis. <i>Stroke</i>. (2020). [DOI Link](https://doi.org/10.1161/STROKEAHA.119.028743).
 
-          >Schommer J, Schrag M, <b>Nackenoff AG</b>, Marwarha G, Ghribi O. Method for organotypic tissue culture in the aged animal. <i>MethodsX</i>. 4 (2017) 166-171.
+          >Schommer J, Schrag M, <b>Nackenoff AG</b>, Marwarha G, Ghribi O. Method for organotypic tissue culture in the aged animal. <i>MethodsX</i>. 4 (2017) 166-171. [DOI Link](https://doi.org/10.1016/j.mex.2017.03.003)
 
-          >Simmler LD, Anacker AMJ, Levin MH, Vaswani NM, Gresch PJ, <b>Nackenoff AG</b>, Anastasio NC, Stutz SJ, Cunningham KA, Wang J, Zhang B, Henry LK, Stewart A, Veenstra-VanderWeele J, Blakely RD. Blockade of the 5-HT transporter contributes to the behavioural, neuronal and molecular effects of cocaine. <i>British Journal of Pharmacology</i>, 174 (2017) 2716-2738.
+          >Simmler LD, Anacker AMJ, Levin MH, Vaswani NM, Gresch PJ, <b>Nackenoff AG</b>, Anastasio NC, Stutz SJ, Cunningham KA, Wang J, Zhang B, Henry LK, Stewart A, Veenstra-VanderWeele J, Blakely RD. Blockade of the 5-HT transporter contributes to the behavioural, neuronal and molecular effects of cocaine. <i>British Journal of Pharmacology</i>, 174 (2017) 2716-2738. [DOI Link](https://doi.org/10.1111/bph.13899)
 
-          ><b>Nackenoff AG</b>, Simmler LD, Baganz NL, Paffenroth KC, Stanwood GD, Pehrson AL, Sanchez C, Blakely RD. [Serotonin Transporter-Independent Actions Of The Antidepressant Vortioxetine As Revealed Using The SERT M172 Mouse](https://www.ncbi.nlm.nih.gov/pubmed/28272863). <i>ACS Chemical Neuroscience</i>, 8 (2017) 1092-1100.
+          ><b>Nackenoff AG</b>, Simmler LD, Baganz NL, Paffenroth KC, Stanwood GD, Pehrson AL, Sanchez C, Blakely RD. <a href="/files/Nackenoff-et-al-2017-Serotonin-Transporter-Independent-Actions-of-the-A.pdf" download>Serotonin Transporter-Independent Actions Of The Antidepressant Vortioxetine As Revealed Using The SERT M172 Mouse</a>. <i>ACS Chemical Neuroscience</i>, 8 (2017) 1092-1100.
 
-          ><b>Nackenoff AG</b>, Moussa-Tooks, AM, McMeekin, AM, Veenstra-VanderWeele J, Blakely RD. [Essential Contributions of Serotonin Transporter Inhibition to the Acute and Chronic Actions of Fluoxetine and Citalopram in the SERT Met172 Mouse](https://www.ncbi.nlm.nih.gov/pubmed/26514584). <i>Neuropsychopharmacology</i>.  41 (2016) 1733-1741
+          ><b>Nackenoff AG</b>, Moussa-Tooks, AM, McMeekin, AM, Veenstra-VanderWeele J, Blakely RD. <a href="/files/Nackenoff-et-al-2015-Essential-Contributions-of-Serotonin-Transporter-I.pdf" download>Essential Contributions of Serotonin Transporter Inhibition to the Acute and Chronic Actions of Fluoxetine and Citalopram in the SERT Met172 Mouse</a>. <i>Neuropsychopharmacology</i>.  41 (2016) 1733-1741
 
 
 ---
