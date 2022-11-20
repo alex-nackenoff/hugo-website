@@ -1,6 +1,6 @@
 ---
 title: "Encrypted E-Mail Public Key"
-date: 2021-09-12T16:52:20-04:00
+date: 2021-09-14T16:52:20-04:00
 description: If you want to explore encrypted E-mail, here's my public key
 image: /images/code-file.png
 tags:
@@ -127,3 +127,14 @@ CHBj7uXZy0FMNp4e3kPo22g=
 
 
 {{< /expand >}}
+
+## Why Encrypt E-mail?
+The real answer is going to come down to your use case. Most of the time, I don't bother with encrypting email as nearly all of my contacts aren't setup to handle them. But with most things, I think it's better to have it setup for the times you need it than to need it and not have it. Though with the increased appetite for encrypted text messaging, I think it's quite possible for this momentum to extend into email. Right now it feels like playing with invisible ink, but things can change (and some communities communicate exclusively in encrypted channels), so I think it's a good tool to have in the back pocket.
+
+Importantly, the question for you may be 'why encrypt at all?' The best analogy I can give is: <b><i>do you have blinds/curtains where you live?</i></b> Of course you do, and with them in place you have--and give--control over who gets visual or physical access to your private spaces. The same could be said with email or text messages, however in a normal unencrypted communication stream, Google or AT&T eg. can access themselves, sell access to others, or provide warrantless access to law enforcement. After all, these are private companies providing a communication service that does not come with all of the 4th Amendment protections that cover physical mail, eg.
+
+## Encryption is Not a Blank Check
+
+## Why PGP Encryption is Better Than Password Protection
+
+<a rel="me" href="https://mastodon.alexnackenoff.com/@alex">Mastodon</a>
