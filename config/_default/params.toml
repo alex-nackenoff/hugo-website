@@ -168,7 +168,7 @@ commento = false
   signal = ""
   whatsapp = ""
   matrix = "https://matrix.to/#/@alex:bridge.alexnackenoff.com"
-  xmpp = "xmpp:alex@alexnackenoff.com"
+  xmpp = ""
   dev-to = ""
   gitea = ""
   google-scholar = ""
@@ -197,6 +197,8 @@ commento = false
 [[share]]
   name = "twitter"
   username = "anackenoff"
+
+
 
 [[footerLinks]]
   name = ""
