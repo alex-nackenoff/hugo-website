@@ -1,5 +1,5 @@
 ---
-title: "PGP Public Key & Various Social Self-Verification"
+title: "draft how to encrypt email"
 date: 2022-11-22T16:52:20-04:00
 description: If you want to explore encrypted E-mail, here's my public key
 image: /images/code-file.png
