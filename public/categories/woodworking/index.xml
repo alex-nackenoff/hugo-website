@@ -6,36 +6,33 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>woodworking on Alex Nackenoff</title>
-    <link>https://alexnackenoff.com/categories/woodworking/</link>
-    <description>Recent content in woodworking on Alex Nackenoff</description>
+    <title>Woodworking on Alex Nackenoff</title>
+    <link>https://www.alexnackenoff.com/categories/woodworking/</link>
+    <description>Recent content in Woodworking on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alex@alexnackenoff.com (Alex Nackenoff)</managingEditor>
     <webMaster>alex@alexnackenoff.com (Alex Nackenoff)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 26 Sep 2020 22:49:30 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2020 22:45:21 -0500</lastBuildDate>
     
-        <atom:link href="https://alexnackenoff.com/categories/woodworking/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.alexnackenoff.com/categories/woodworking/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
-        <title>Kitchen Cart and Table</title>
-        <link>https://alexnackenoff.com/posts/kitchen-cart-and-table/</link>
-        <pubDate>Sat, 26 Sep 2020 22:49:30 -0500</pubDate>
+        <title>Wedding Beer Cart</title>
+        <link>https://www.alexnackenoff.com/posts/wedding-beer-cart/</link>
+        <pubDate>Thu, 15 Oct 2020 22:45:21 -0500</pubDate>
         <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
-        <atom:modified>Sat, 26 Sep 2020 22:49:30 -0500</atom:modified>
-        <guid>https://alexnackenoff.com/posts/kitchen-cart-and-table/</guid>
-        <description>Finished Product First   Not Pictured: A Lot of Sawdust Covering My New Apartment
-  Piling Up Everything After a Ton of Planning I went with walnut, as it is relatively cheap in Tennessee. But this was definitely the no-turning-back moment.
-Showing up to the lumber yard in my sedan was probably hilarious to the owner, but the wood fit (I think these were 8ft S2S)
- S2S = Surfaced on 2 Sides.</description>
+        <atom:modified>Thu, 15 Oct 2020 22:45:21 -0500</atom:modified>
+        <guid>https://www.alexnackenoff.com/posts/wedding-beer-cart/</guid>
+        <description>The Inspiration At some point in the wedding planning process, it had crossed my mind to brew some beer for the reception, though I was not going to make that a non-negotiable factor for choosing a venue that would allow 1) outside alcohol and 2) homebrewed beer. The number of venues in Nashville that permitted homebrew were small, and we had more pressing demands (like trying to fit 200 people in a venue).</description>
         
         <dc:creator>Alex Nackenoff</dc:creator>
-        <media:content url="https://alexnackenoff.com/https://piwigo.alexnackenoff.com/i.php?/galleries/wood_table/DSC00407-sm.JPG" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.alexnackenoff.com/https://piwigo.alexnackenoff.com/galleries/website-pics/2020/9-24-beer-cart/wedding-772-crop.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -43,6 +40,47 @@ Showing up to the lumber yard in my sedan was probably hilarious to the owner, b
           
             
               <category>woodworking</category>
+            
+          
+            
+              <category>homebrewing</category>
+            
+          
+            
+              <category>beer</category>
+            
+          
+        
+        
+          
+            
+              <category>Wedding Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Kitchen Cart and Table</title>
+        <link>https://www.alexnackenoff.com/posts/kitchen-cart-and-table/</link>
+        <pubDate>Sat, 26 Sep 2020 22:49:30 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        <atom:modified>Sat, 26 Sep 2020 22:49:30 -0500</atom:modified>
+        <guid>https://www.alexnackenoff.com/posts/kitchen-cart-and-table/</guid>
+        <description>Finished Product First   Not Pictured: A Lot of Sawdust Covering My New Apartment
+  Piling Up Everything After a Ton of Planning I went with walnut, as it is relatively cheap in Tennessee. But this was definitely the no-turning-back moment.
+Showing up to the lumber yard in my sedan was probably hilarious to the owner, but the wood fit (I think these were 8ft S2S)
+ S2S = Surfaced on 2 Sides.</description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        <media:content url="https://www.alexnackenoff.com/https://piwigo.alexnackenoff.com/i.php?/galleries/wood_table/DSC00407-sm.JPG" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>Woodworking</category>
             
           
         

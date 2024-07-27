@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tech on Alex Nackenoff</title>
+    <link>https://www.alexnackenoff.com/tags/tech/</link>
+    <description>Recent content in Tech on Alex Nackenoff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>alex@alexnackenoff.com (Alex Nackenoff)</managingEditor>
+    <webMaster>alex@alexnackenoff.com (Alex Nackenoff)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 21 Nov 2022 08:32:20 -0400</lastBuildDate>
+    
+        <atom:link href="https://www.alexnackenoff.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>PGP Public Key &amp; Various Social Self-Verification</title>
+        <link>https://www.alexnackenoff.com/posts/encrypted-e-mail-public-key/</link>
+        <pubDate>Mon, 21 Nov 2022 08:32:20 -0400</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        <atom:modified>Mon, 21 Nov 2022 08:32:20 -0400</atom:modified>
+        <guid>https://www.alexnackenoff.com/posts/encrypted-e-mail-public-key/</guid>
+        <description>If you want to explore encrypted E-mail, here are my public keys. In a future post, I&amp;rsquo;ll discuss how to get setup with email encryption and other use cases/rationale. Additionally, I&amp;rsquo;ll update this post with self-verification as necessary in the future
+  Public Key for alex@alexnackenoff.com  Download &amp;mdash;&amp;ndash;BEGIN PGP PUBLIC KEY BLOCK&amp;mdash;&amp;ndash;
+xsBNBF/agwQBCADjOfICZePi4lnTQt7GYpnR2Sbs9infa90/CWVDv3aUUeF7bxaaWEhLUjiBXOkt
+5wKqT4VBbSSlRf785Jv/u2PQZg98wcOYOQS9yql5k07DMQt92lkpbVkkBMwBdTIj9uJ3C8310bpR
+t8jBA55JTL2/RS1bt7bMEns/1uuyKmblQIfqZ9nsIVcp0WUhLE737MvgO9/5ee/2VOXT8Bo+OQPQ
+wkgeyKxHBNp1nId7gnqxoGvjZZpLx+WYB5umZ2vvwx5o1PetxvzjBUtfw7/tIVh3bZy0zkQCSVV6
+KDetzmbmjGRkNueh3WMp+UmNrnZnyqFhbDvc3Z4FrogDzk9TLVTrABEBAAHNJ0FsZXggTmFja2Vu
+b2ZmIDxhbGV4QGFsZXhuYWNrZW5vZmYuY29tPsLAlAQTAQgAPhYhBBAXoigg30Iq62YY+O1BiXMY
+sdY7BQJf2oMEAhsDBQkJZxscBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEO1BiXMYsdY7Hl0H
+/Apqg3oe1Pnv/b07AuH93e6iyhk5efzO6PCu5TvqvU8BBwGbs6kqx1VsSMdMUp8lUYxB4d2/VPk/
+XnNvrjve+C9OLcP9mKFHZHu8gE/LNKG3l83Zk4ZBYW5fmhIbIr35+iw1dpUKdzRwxlmB1aj2QJLl
+Q611D8mllIO0RG/ho0rK4fyyigge9+xOhj38DbBXkkcTxxn1E/6u6rki4dOQWLOJmGKFniRddodG
+3mW0Sul1E6TCjia5BZyO4MF6o9Ysr3AdfBAciKlXQdzYQgav0yOyxBLiCEXLr6nyAL204wEsAq++
+nHVnOI2a5Ds95MZLKCmJx6ORgzeQxGHyL6pndO3OwE0EX9qDBAEIAMtxnqd3ONP6HeJZx54lQXRI
+JbkEKWL4vhEfjMClrCZHgb1Arwb+YMWmtvXdRuBJqjfgA8A+I1E7YsKizdE1v7GFmRvcrkwovrq0
+a5KOHr/qjvYiPuFOynp5O/xH29t53cNPmssqeN6Q6whv++F7q/e/5E9Q+Qxtzhyxp5GvBJ3mT6EA
+sjRX6UEA9Dfb2fQCDF8oSeQwJGo9LVlKB2f8tMJs2x2Az8nRP8hPpFgdqe5OAyUqC7wPRVx1W3z+
+qcvkw7ytTGtrRsqs/AgYzj9CT+Lbl3XYOTtFcHqOaLDwf4ohqJHsh7OWPkFC2igcK1xOZ/nVaX6j</description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        <media:content url="https://www.alexnackenoff.com//images/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Tech</category>
+            
+          
+        
+        
+          
+            
+              <category>Tech</category>
+            
+          
+        
+        
+          
+            
+              <category>Encryption</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

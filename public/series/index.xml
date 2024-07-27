@@ -7,28 +7,64 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Alex Nackenoff</title>
-    <link>https://alexnackenoff.com/series/</link>
+    <link>https://www.alexnackenoff.com/series/</link>
     <description>Recent content in Series on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alex@alexnackenoff.com (Alex Nackenoff)</managingEditor>
     <webMaster>alex@alexnackenoff.com (Alex Nackenoff)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 17 Sep 2020 10:47:33 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2022 08:32:20 -0400</lastBuildDate>
     
-        <atom:link href="https://alexnackenoff.com/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.alexnackenoff.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
+        <title>Encryption</title>
+        <link>https://www.alexnackenoff.com/series/encryption/</link>
+        <pubDate>Mon, 21 Nov 2022 08:32:20 -0400</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://www.alexnackenoff.com/series/encryption/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Wedding Projects</title>
+        <link>https://www.alexnackenoff.com/series/wedding-projects/</link>
+        <pubDate>Thu, 15 Oct 2020 22:45:21 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://www.alexnackenoff.com/series/wedding-projects/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Gluten Free Cooking</title>
-        <link>https://alexnackenoff.com/series/gluten-free-cooking/</link>
+        <link>https://www.alexnackenoff.com/series/gluten-free-cooking/</link>
         <pubDate>Thu, 17 Sep 2020 10:47:33 -0500</pubDate>
         <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
         
-        <guid>https://alexnackenoff.com/series/gluten-free-cooking/</guid>
+        <guid>https://www.alexnackenoff.com/series/gluten-free-cooking/</guid>
         <description></description>
         
         <dc:creator>Alex Nackenoff</dc:creator>

@@ -7,28 +7,100 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Alex Nackenoff</title>
-    <link>https://alexnackenoff.com/categories/</link>
+    <link>https://www.alexnackenoff.com/categories/</link>
     <description>Recent content in Categories on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alex@alexnackenoff.com (Alex Nackenoff)</managingEditor>
     <webMaster>alex@alexnackenoff.com (Alex Nackenoff)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 17 Sep 2020 10:47:33 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2022 08:32:20 -0400</lastBuildDate>
     
-        <atom:link href="https://alexnackenoff.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.alexnackenoff.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
+        <title>Tech</title>
+        <link>https://www.alexnackenoff.com/categories/tech/</link>
+        <pubDate>Mon, 21 Nov 2022 08:32:20 -0400</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://www.alexnackenoff.com/categories/tech/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>beer</title>
+        <link>https://www.alexnackenoff.com/categories/beer/</link>
+        <pubDate>Thu, 15 Oct 2020 22:45:21 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://www.alexnackenoff.com/categories/beer/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>homebrewing</title>
+        <link>https://www.alexnackenoff.com/categories/homebrewing/</link>
+        <pubDate>Thu, 15 Oct 2020 22:45:21 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://www.alexnackenoff.com/categories/homebrewing/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Woodworking</title>
+        <link>https://www.alexnackenoff.com/categories/woodworking/</link>
+        <pubDate>Thu, 15 Oct 2020 22:45:21 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        
+        <guid>https://www.alexnackenoff.com/categories/woodworking/</guid>
+        <description></description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Gluten-Free</title>
-        <link>https://alexnackenoff.com/categories/gluten-free/</link>
+        <link>https://www.alexnackenoff.com/categories/gluten-free/</link>
         <pubDate>Thu, 17 Sep 2020 10:47:33 -0500</pubDate>
         <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
         
-        <guid>https://alexnackenoff.com/categories/gluten-free/</guid>
+        <guid>https://www.alexnackenoff.com/categories/gluten-free/</guid>
         <description></description>
         
         <dc:creator>Alex Nackenoff</dc:creator>
@@ -42,11 +114,11 @@
       
       <item>
         <title>Recipes</title>
-        <link>https://alexnackenoff.com/categories/recipes/</link>
+        <link>https://www.alexnackenoff.com/categories/recipes/</link>
         <pubDate>Thu, 17 Sep 2020 10:47:33 -0500</pubDate>
         <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
         
-        <guid>https://alexnackenoff.com/categories/recipes/</guid>
+        <guid>https://www.alexnackenoff.com/categories/recipes/</guid>
         <description></description>
         
         <dc:creator>Alex Nackenoff</dc:creator>

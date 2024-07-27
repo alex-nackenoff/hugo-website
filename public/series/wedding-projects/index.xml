@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Wedding Projects on Alex Nackenoff</title>
+    <link>https://www.alexnackenoff.com/series/wedding-projects/</link>
+    <description>Recent content in Wedding Projects on Alex Nackenoff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>alex@alexnackenoff.com (Alex Nackenoff)</managingEditor>
+    <webMaster>alex@alexnackenoff.com (Alex Nackenoff)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 15 Oct 2020 22:45:21 -0500</lastBuildDate>
+    
+        <atom:link href="https://www.alexnackenoff.com/series/wedding-projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Wedding Beer Cart</title>
+        <link>https://www.alexnackenoff.com/posts/wedding-beer-cart/</link>
+        <pubDate>Thu, 15 Oct 2020 22:45:21 -0500</pubDate>
+        <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
+        <atom:modified>Thu, 15 Oct 2020 22:45:21 -0500</atom:modified>
+        <guid>https://www.alexnackenoff.com/posts/wedding-beer-cart/</guid>
+        <description>The Inspiration At some point in the wedding planning process, it had crossed my mind to brew some beer for the reception, though I was not going to make that a non-negotiable factor for choosing a venue that would allow 1) outside alcohol and 2) homebrewed beer. The number of venues in Nashville that permitted homebrew were small, and we had more pressing demands (like trying to fit 200 people in a venue).</description>
+        
+        <dc:creator>Alex Nackenoff</dc:creator>
+        <media:content url="https://www.alexnackenoff.com/https://piwigo.alexnackenoff.com/galleries/website-pics/2020/9-24-beer-cart/wedding-772-crop.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>woodworking</category>
+            
+          
+            
+              <category>homebrewing</category>
+            
+          
+            
+              <category>beer</category>
+            
+          
+        
+        
+          
+            
+              <category>Wedding Projects</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

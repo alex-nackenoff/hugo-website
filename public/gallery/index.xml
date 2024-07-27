@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Alex Nackenoff</title>
-    <link>https://alexnackenoff.com/gallery/</link>
+    <link>https://www.alexnackenoff.com/gallery/</link>
     <description>Recent content in Galleries on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 01 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="https://alexnackenoff.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.alexnackenoff.com/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Wedding Beer Cart</title>
-        <link>https://alexnackenoff.com/gallery/beer_cart/</link>
+        <link>https://www.alexnackenoff.com/gallery/beer_cart/</link>
         <pubDate>Tue, 01 Oct 2019 10:20:16 +0900</pubDate>
         <author>alex@alexnackenoff.com (Alex Nackenoff)</author>
         <atom:modified>Tue, 01 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://alexnackenoff.com/gallery/beer_cart/</guid>
-        <description></description>
+        <guid>https://www.alexnackenoff.com/gallery/beer_cart/</guid>
+        <description>  </description>
         
         <dc:creator>Alex Nackenoff</dc:creator>
-        <media:content url="https://alexnackenoff.com/images/profile-circle.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.alexnackenoff.com/https://piwigo.alexnackenoff.com/galleries/website-pics/2020/9-24-beer-cart/wedding-772-crop.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

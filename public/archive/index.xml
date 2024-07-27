@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on Alex Nackenoff</title>
-    <link>https://alexnackenoff.com/archive/</link>
+    <link>https://www.alexnackenoff.com/archive/</link>
     <description>Recent content in Archive on Alex Nackenoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Sep 2020 12:50:46 +0900</lastBuildDate>
     
-        <atom:link href="https://alexnackenoff.com/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.alexnackenoff.com/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
     
